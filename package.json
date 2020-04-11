@@ -1,0 +1,24 @@
+{
+  "name": "blog-express",
+  "version": "1.0.0",
+  "description": "Blog App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verite96/blog-express.git"
+  },
+  "author": "Verite Somwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verite96/blog-express/issues"
+  },
+  "homepage": "https://github.com/verite96/blog-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
